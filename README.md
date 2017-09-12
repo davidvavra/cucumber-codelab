@@ -5,4 +5,4 @@
 3. Write an implementation (simple calculator with two numbers and 4 operators) in your favorite language and connect it to tests
     - If you will create Android/iOS app, it doesn't need to have any UI, just test some static class with the logic
 5. Run tests and make sure they are all green    
-4. Add one test with different the tests are still green
+4. Add one test with different data and make sure the tests are still green
